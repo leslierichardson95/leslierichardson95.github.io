@@ -1,0 +1,26 @@
+/* Styles go here */
+
+h1 {
+  color:red;
+}
+
+.top { 
+  color:blue;
+}
+
+td {
+  padding:6px;
+  
+}
+
+a {
+  text-decoration:none;
+  font-family: Verdana;
+  font-weight:bold;
+  color:#b2caff;
+}
+
+.Navbar {
+  background-color:#00108b;
+  border:2px dotted #b2caff;
+}
