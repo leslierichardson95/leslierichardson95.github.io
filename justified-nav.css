@@ -1,5 +1,7 @@
+/*site headings and background*/
 body {
   padding-top: 20px;
+  /*navy blue headings*/
   color:#19005b;
 }
 
@@ -18,6 +20,7 @@ body {
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
+  /*orange "More about Me" button*/
   background-color:#ff8100;
   border-color: #ff8100;
 }
@@ -45,6 +48,8 @@ body {
   background-repeat: repeat-x; /* Repeat the gradient */
   border-bottom: 1px solid #d5d5d5;
 }
+
+/*Navigation bar design - justified*/
 .nav-justified > .active > a,
 .nav-justified > .active > a:hover,
 .nav-justified > .active > a:focus {
@@ -91,11 +96,13 @@ body {
 }
 
 table {
+  /*centered table with padding*/
   margin:auto;
   padding-right: 20px;
 }
 
 img {
+  /*default photo sizes*/
   height:300px;
   width:300px;
  /* border:2px solid blue;*/
